@@ -60,7 +60,7 @@
 				        <ul class="nav-menu">
 				          <li class="menu-active"><a href="index.html">Home</a></li>
 				          <li><a href="about.html">About</a></li>
-				          <li><a href="gallery.html">Gallery</a></li>
+				          <li><a href="gallery.html">Galleryy</a></li>
 				          <li><a href="event.html">Events</a></li>
 				          <li><a href="ticket.html">Ticket</a></li>
 				          <li><a href="blog-home.html">Blog</a></li>
