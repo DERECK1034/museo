@@ -36,13 +36,12 @@
 			  		<div class="row">
 				  		<div class="col-6 top-head-left">
 				  			<ul>
-				  				<li><a href="#">Visit Us</a></li>
-				  				<li><a href="#">Buy Ticket</a></li>
+				  				
 				  			</ul>
 				  		</div>
 				  		<div class="col-6 top-head-right">
 				  			<ul>
-		  						<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+		  						<li><a href="https://www.facebook.com/pueblamuseos" target="_blank"><i class="fa fa-facebook"></i></a></li>
 								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
 								<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
 								<li><a href="#"><i class="fa fa-behance"></i></a></li>
@@ -53,19 +52,17 @@
 			  	<hr>
 			    <div class="container">
 			    	<div class="row align-items-center justify-content-between d-flex">
-				      <div id="logo">
-				        <a href="index.html"><img src="img/logo.png" alt="" title="" />Muse Regional de Cholula</a>
-				      </div>
+					<div id="logo">
+						<a href="index.html"><img src="img/logo2.png" alt="" title="" style="height: 50px;" /></a>
+					</div>
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
-				          <li class="menu-active"><a href="index.html">Home</a></li>
-				          <li><a href="about.html">About</a></li>
-				          <li><a href="gallery.html">Galleryy</a></li>
-				          <li><a href="event.html">Events</a></li>
-				          <li><a href="ticket.html">Ticket</a></li>
-				          <li><a href="blog-home.html">Blog</a></li>
-				          <li><a href="contact.html">Contact</a></li>
-				          <li class="menu-has-children"><a href="">Pages</a>
+				          <li class="menu-active"><a href="index.html">Inicio</a></li>
+				          <li><a href="about.html">Acerca De</a></li>
+				          <li><a href="gallery.html">Galeria</a></li>
+				          <li><a href="event.html">Eventos</a></li>
+				          <li><a href="contact.html">Contactos</a></li>
+				          <li class="menu-has-children"><a href="">Herbolarea</a>
 				            <ul>
 				              <li><a href="blog-single.html">Blog Single</a></li>
 				              <li><a href="category.html">Category</a></li>
@@ -85,14 +82,12 @@
 				<div class="container">
 					<div class="row fullscreen d-flex align-items-center justify-content-center">
 						<div class="banner-content col-lg-8">
-							<h6 class="text-white">Openning on 21st February, 2018</h6>
 							<h1 class="text-white">
-								Exhibition on Modern Era				
+								Bienvenidos al Museo Regional de Cholula
 							</h1>
 							<p class="pt-20 pb-20 text-white">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.  sed do eiusmod tempor incididunt..
+							Un viaje a través del tiempo que conecta las huellas de civilizaciones ancestrales con el presente, ofreciendo un vistazo único a la rica historia y el vibrante legado cultural de la región.
 							</p>
-							<a href="#" class="primary-btn text-uppercase">Get Started</a>
 						</div>											
 					</div>
 				</div>					
@@ -104,62 +99,32 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-4">
+							<div class="single-service text-center">
+								<img src="img/aruma.jpg" alt="Empleado del Mes" style="width: 150px; height: auto; border-radius: 8px; margin-bottom: 10px;">
+								<p>
+								Miztli (Empleada del Mes)
+								</p>                          
+							</div>							
+						</div>
+						<div class="col-lg-4">
 							<div class="single-service">
 							  <span class="lnr lnr-clock"></span>
-							  <h4>Openning Hours</h4>
+							  <h4>Hora de Apertura</h4>
 							  <p>
-							  	Mon - Fri: 10.00am to 05.00pm
-								Sat: 12.00pm to 03.00 pm
-								Sunday Closed
+							  	Martes - Jueves: 10.00am a 05.00pm
+								Sabados - Domingos: 10.00am a 06.00pm
+								Lunes Cerrado
 							  </p>						 	
-							  <div class="overlay">
-							    <div class="text">
-							    	<p>
-							    		Here, I focus on a range of items and features that we use in life Here, I focus on a range of items and features that we use in life Here, I focus on a range of items and features.that we use in life
-							    	</p>
-							    	<a href="#" class="text-uppercase primary-btn">Buy ticket</a>
-							    </div>
-							  </div>
 							</div>							
 						</div>
 						<div class="col-lg-4">
-							<div class="single-service">
-							  <span class="lnr lnr-rocket"></span>
-							  <h4>Ongoing Exhibitions</h4>
-							  <p>
-							  	Mon - Fri: 10.00am to 05.00pm
-								Sat: 12.00pm to 03.00 pm
-								Sunday Closed
-							  </p>						 	
-							  <div class="overlay">
-							    <div class="text">
-							    	<p>
-							    		Here, I focus on a range of items and features that we use in life Here, I focus on a range of items and features that we use in life Here, I focus on a range of items and features.that we use in life
-							    	</p>
-							    	<a href="#" class="text-uppercase primary-btn">Buy ticket</a>
-							    </div>
-							  </div>
+							<div class="single-service text-center">
+								<img src="img/aruma.jpg" alt="Empleado del Mes" style="width: 150px; height: auto; border-radius: 8px; margin-bottom: 10px;">
+								<p>
+								Aruma (Control de Plagas)
+								</p>                          
 							</div>							
-						</div>
-						<div class="col-lg-4">
-							<div class="single-service">
-							  <span class="lnr lnr-briefcase"></span>
-							  <h4>Openning Events</h4>
-							  <p>
-							  	Mon - Fri: 10.00am to 05.00pm
-								Sat: 12.00pm to 03.00 pm
-								Sunday Closed
-							  </p>						 	
-							  <div class="overlay">
-							    <div class="text">
-							    	<p>
-							    		Here, I focus on a range of items and features that we use in life Here, I focus on a range of items and features that we use in life Here, I focus on a range of items and features.that we use in life
-							    	</p>
-							    	<a href="#" class="text-uppercase primary-btn">Buy ticket</a>
-							    </div>
-							  </div>
-							</div>							
-						</div>												
+						</div>											
 					</div>
 				</div>	
 			</section>
@@ -522,13 +487,10 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						</div>						
 						<div class="col-lg-2 col-md-6 col-sm-6 social-widget">
 							<div class="single-footer-widget">
-								<h6>Follow Us</h6>
-								<p>Let us be social</p>
+								<h6>Nos encontramos </h6>
 								<div class="footer-social d-flex align-items-center">
-									<a href="#"><i class="fa fa-facebook"></i></a>
-									<a href="#"><i class="fa fa-twitter"></i></a>
-									<a href="#"><i class="fa fa-dribbble"></i></a>
-									<a href="#"><i class="fa fa-behance"></i></a>
+								<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3771.1169937232858!2d-98.30245512497305!3d19.05859308214248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfc62fa4dd93ad%3A0xad28605797c9cc77!2sMuseo%20Regional%20de%20Cholula!5e0!3m2!1ses-419!2smx!4v1747781931963!5m2!1ses-419!2smx" 
+									    width="200" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 								</div>
 							</div>
 						</div>							
